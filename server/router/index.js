@@ -9,4 +9,6 @@ router.get("/register", (req,res)=>{
 
 router.post("/register",registerUser)
 
+
+
 module.exports = router
